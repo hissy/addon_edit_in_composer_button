@@ -1,0 +1,14 @@
+{
+  "name": "edit_in_composer_button",
+  "description": "Add an \"Edit in Composer\" button to your toolbar.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hissy/addon_edit_in_composer_button.git"
+  },
+  "author": "Takuro Hishikawa <hishikawa@concrete5.co.jp>",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "latest",
+    "gulp-zip": "latest"
+  }
+}

@@ -1,5 +1,4 @@
 <?php
-
 defined('C5_EXECUTE') or die(_("Access Denied."));
 
 class EditInComposerButtonPackage extends Package {
@@ -9,7 +8,7 @@ class EditInComposerButtonPackage extends Package {
     protected $pkgVersion = '0.1';
 
     public function getPackageName() {
-        return t('Edit in Composer Button');
+        return t('"Edit in Composer" Button');
     }
 
     public function getPackageDescription() {

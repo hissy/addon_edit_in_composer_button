@@ -1,5 +1,6 @@
 <?php
 defined('C5_EXECUTE') or die("Access Denied.");
+
 class EditInComposerConcreteInterfaceMenuItemController extends ConcreteInterfaceMenuItemController {
 
     public function displayItem() {

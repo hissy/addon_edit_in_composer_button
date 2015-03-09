@@ -4,7 +4,7 @@ defined('C5_EXECUTE') or die(_("Access Denied."));
 class EditInComposerButtonPackage extends Package {
 
     protected $pkgHandle = 'edit_in_composer_button';
-    protected $appVersionRequired = '5.6';
+    protected $appVersionRequired = '5.6.3.3';
     protected $pkgVersion = '0.1';
 
     public function getPackageName() {
